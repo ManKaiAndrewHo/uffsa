@@ -1,6 +1,6 @@
 import React from 'react';
 import AKATitle from '../../../components/titles/AKA Title/AKATitle';
-import InstagramPost from "../../../components/InstaPosts/InstagramPost";
+
 import './AKA.css';
 
 const AKA = () => {
